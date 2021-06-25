@@ -1,1 +1,3 @@
-# javaScript_OOPS
+# JavaScript OOPS
+
+To learn OOPS concept using Javascript.
