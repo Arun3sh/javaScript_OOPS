@@ -11,7 +11,7 @@ class Movie{
     var j=0;
     for(let i=0; i<m.length; i++){
       //console.log(m[i].rating);
-      if(m[i].rating != "R"){
+      if(m[i].rating == "PG"){
         PGMovies[j] = m[i].title;
         j++;
       }
